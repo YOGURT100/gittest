@@ -1,4 +1,0 @@
-hello 
-World
-Hello
-Мир
